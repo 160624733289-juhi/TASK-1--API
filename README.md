@@ -87,7 +87,3 @@ The main objective of SkyCast is to demonstrate practical knowledge of API integ
 **CODTECH Internship – Task 1: API Integration**
 
 **Project:** SkyCast – Smart Weather & Tech Dashboard
-
----
-
-⭐ If you like this project, don't forget to give this repository a star!
